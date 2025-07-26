@@ -24,8 +24,8 @@
 
 ## 📫 Contacto
 
-- 📧 **franciscogoroscer@gmail.com**  
-- 💼 [LinkedIn](https://www.linkedin.com/in/franciscogoroscer)
+- 📧 **francisgoros@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/francisco-agustin-gorostiaga/)
 
 ---
 
