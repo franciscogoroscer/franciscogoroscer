@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Francisco Gorostiaga
 
-<!--
-**franciscogoroscer/franciscogoroscer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **PM en ShareVolts**  
+🎓 Estudiante avanzado y destacado de **Ingeniería en Sistemas**  
+💡 Apasionado por la tecnología, la mejora continua y la creación de soluciones innovadoras.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tecnologías que manejo
+
+- **Lenguajes**: Java, JavaScript, C#
+- **Low-Code**: Power Platform (Power Apps, Power Automate, Power BI)
+- **Otras herramientas**: Git, SQL, HTML, CSS
+
+---
+
+## 🚀 Proyecto destacado
+
+📌 **[Trabajo Para Red Sísmica]**  
+
+(https://github.com/franciscogoroscer/TrabajoParaRedSismica)
+
+---
+
+## 📫 Contacto
+
+- 📧 **franciscogoroscer@gmail.com**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/franciscogoroscer)
+
+---
+
+## 📈 Estadísticas de GitHub
+
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscogoroscer&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscogoroscer&layout=compact&theme=transparent)
+
+---
+
