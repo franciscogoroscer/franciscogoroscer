@@ -29,10 +29,4 @@
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=franciscogoroscer&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=franciscogoroscer&layout=compact&theme=transparent)
-
----
 
